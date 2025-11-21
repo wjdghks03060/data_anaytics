@@ -1,3 +1,9 @@
+dollar_data/
+exchange_rate/
+naver_news_data/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
